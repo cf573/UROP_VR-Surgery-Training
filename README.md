@@ -57,6 +57,12 @@ Any specific configurations or environment variables needed for the Tutorial App
 
 A brief description of the Experiment App. What experiments are you running? What data are you collecting?
 
+A brief description of the Experiment App and its purpose.
+
+[![Watch the video](https://img.youtube.com/vi/ocaF2cfl_9M/0.jpg)](https://www.youtube.com/watch?v=ocaF2cfl_9M)
+
+Click the image above to watch the overview video of the Experiment App.
+
 ### Installation
 
 Steps to install the Experiment App:
