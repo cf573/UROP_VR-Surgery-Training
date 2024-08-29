@@ -27,7 +27,7 @@ Provide a more detailed overview of the project, its architecture, and any prere
 
 ### Overview
 
-A brief description of the Tutorial App. What does it do? Why is it important?
+
 [![Watch the video](https://img.youtube.com/vi/UmPE9X6CAEo/0.jpg)](https://www.youtube.com/watch?v=UmPE9X6CAEo)
 
 Click the image above to watch the overview video of the Tutorial App.
@@ -55,9 +55,6 @@ Any specific configurations or environment variables needed for the Tutorial App
 
 ### Overview
 
-A brief description of the Experiment App. What experiments are you running? What data are you collecting?
-
-A brief description of the Experiment App and its purpose.
 
 [![Watch the video](https://img.youtube.com/vi/ocaF2cfl_9M/0.jpg)](https://www.youtube.com/watch?v=ocaF2cfl_9M)
 
