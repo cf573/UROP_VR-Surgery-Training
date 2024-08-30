@@ -93,9 +93,36 @@ Please proceed to watch the [Post-Build Instructions video](#post-build-instruct
 
 ---
 
-### Data Collection
+## Data Collection
 
-Information on how the data is collected, where it is stored, and how it can be accessed.
+This section explains how the data is collected, where it is stored, and how you can access it on your Quest 3.
+
+### Steps to Access Data:
+
+1. **Download SideQuest**:
+   - To begin, download and install [SideQuest](https://sidequestvr.com/) on your PC.
+   - ![Download SideQuest](https://your-image-url.com/path-to-download-image.png)  <!-- Replace with actual image URL -->
+
+2. **Connect Your PC to Quest 3**:
+   - Use a USB cable to connect your Quest 3 headset to your PC.
+   - Once connected, ensure your headset is in developer mode (refer to the earlier section for enabling developer mode).
+
+3. **Select 'Manage Files on Headset'**:
+   - Open SideQuest and select the "Manage Files on Headset" option.
+   - ![Manage Files](https://your-image-url.com/path-to-manage-files-image.png)  <!-- Replace with actual image URL -->
+
+4. **Navigate to the Data Folder**:
+   - In the file management window, navigate to the following path:
+     ```
+     Android -> data -> <your-project-name> -> files
+     ```
+   - The `<your-project-name>` is the package name of your app, which can be found in Unity under `Player Settings`. For example:
+     ```
+     com.UnityTechnologies.com.unity.template.urpblank
+     ```
+   - Inside the `files` directory, you will find JSON files containing the collected data.
+   - ![JSON Files Location](https://your-image-url.com/path-to-json-files-image.png)  <!-- Replace with actual image URL -->
+
 
 ---
 
