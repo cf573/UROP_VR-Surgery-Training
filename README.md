@@ -145,7 +145,8 @@ Follow these steps to set up your environment and get started with the project:
    > **Note**: It's important to use this exact version to ensure compatibility with the project.
 
 > **Note:** From now on, you can watch a [video tutorial](https://youtu.be/a2FsIpASeiI) for creating a new project and installing the dependency libraries. This will help guide you through the process step by step.
-> **Note** [The url mentioned in the video.](https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi.urp)
+
+> **Note:** [The url mentioned in the video.](https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi.urp)
  ### Step 3: Create a New Project and Configure Settings
 
 1. **Create a New Project**:
