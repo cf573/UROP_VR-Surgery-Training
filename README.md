@@ -102,7 +102,26 @@ Instructions on how to run the Joystick App:
 Common issues that might arise with the Joystick App and how to resolve them.
 
 ---
+## Prerequisites: Set Up Your Quest 3 in Developer Mode
 
+Before you start with the steps below, make sure your Quest 3 headset is set up in developer mode. This is essential for running and testing your Unity project on the device.
+
+### How to Enable Developer Mode on Quest 3:
+
+1. **Register as an Oculus Developer**:
+   - Visit the [Oculus Developer Dashboard](https://developer.oculus.com/manage/organizations/create/) and either create a new developer organization or join an existing one.
+
+2. **Install the Oculus App**:
+   - Install the Oculus mobile app on your smartphone from the [Google Play Store](https://play.google.com/store/apps/details?id=com.oculus.twilight) or [Apple App Store](https://apps.apple.com/us/app/meta-quest/id1269587596).
+   - Sign in with your Oculus account.
+
+3. **Enable Developer Mode**:
+   - Open the Oculus app on your smartphone.
+   - Navigate to **Devices** in the app and select your Quest 3 headset.
+   - Find the **Developer Mode** option and toggle it on.
+   - Restart your Quest 3 headset to apply the changes.
+
+---
 ## Getting Started
 
 Follow these steps to set up your environment and get started with the project:
