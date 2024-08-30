@@ -32,18 +32,28 @@ Provide a more detailed overview of the project, its architecture, and any prere
 
 Click the image above to watch the overview video of the Tutorial App.
 
-### Installation
+## Installation
 
-Steps to install the Tutorial App:
-1. Clone the repository: `git clone <repo-url>`
-2. Navigate to the Tutorial App directory: `cd tutorial-app`
-3. Install dependencies: `npm install` or `pip install -r requirements.txt` (depending on the tech stack)
+Before you begin installing the Tutorial App, make sure you have completed the following prerequisites:
 
-### Usage
+### Checklist:
 
-Instructions on how to run the Tutorial App:
-1. Start the server: `npm start` or `python app.py`
-2. Open your browser and navigate to `http://localhost:3000` (or appropriate URL)
+1. [ ] **Unity ID Registered**: Ensure you have registered for a [Unity ID](https://id.unity.com/) or signed in with your existing account.
+2. [ ] **Unity Hub Installed**: Download and install [Unity Hub](https://unity.com/download).
+3. [ ] **Correct Unity Editor Version Installed**: Ensure that Unity Editor version **2022.3.5f1** is installed through Unity Hub.
+4. [ ] **Visual Studio Installed**: Download and install [Visual Studio](https://visualstudio.microsoft.com/) (recommended version for Unity development).
+5. [ ] **Quest 3 Developer Mode Enabled**: Ensure your Quest 3 headset is in developer mode. (Refer to the [Prerequisites section](#prerequisites-set-up-your-quest-3-in-developer-mode) above for instructions).
+6. [ ] **Watch Video in Getting Started**: If you're unfamiliar with any of the steps, refer to the [Getting Started section](#getting-started) for a detailed video tutorial.
+
+Once you have completed all the steps in the checklist, the Tutorial App is successfully installed!
+
+---
+
+### Next Steps:
+
+Please proceed to watch the [Post-Build Instructions video](#post-build-instructions) to learn how to use the app, including placing models and loading content.
+
+---
 
 ### Configuration
 
@@ -60,17 +70,28 @@ Any specific configurations or environment variables needed for the Tutorial App
 
 Click the image above to watch the overview video of the Experiment App.
 
-### Installation
+## Installation
 
-Steps to install the Experiment App:
-1. Navigate to the Experiment App directory: `cd experiment-app`
-2. Install dependencies: `npm install` or `pip install -r requirements.txt`
+Before you begin installing the Tutorial App, make sure you have completed the following prerequisites:
 
-### Usage
+### Checklist:
 
-Instructions on how to run the Experiment App:
-1. Start the experiment: `npm run experiment` or `python experiment.py`
-2. Follow the on-screen instructions to conduct the experiment.
+1. [ ] **Unity ID Registered**: Ensure you have registered for a [Unity ID](https://id.unity.com/) or signed in with your existing account.
+2. [ ] **Unity Hub Installed**: Download and install [Unity Hub](https://unity.com/download).
+3. [ ] **Correct Unity Editor Version Installed**: Ensure that Unity Editor version **2022.3.5f1** is installed through Unity Hub.
+4. [ ] **Visual Studio Installed**: Download and install [Visual Studio](https://visualstudio.microsoft.com/) (recommended version for Unity development).
+5. [ ] **Quest 3 Developer Mode Enabled**: Ensure your Quest 3 headset is in developer mode. (Refer to the [Prerequisites section](#prerequisites-set-up-your-quest-3-in-developer-mode) above for instructions).
+6. [ ] **Watch Video in Getting Started**: If you're unfamiliar with any of the steps, refer to the [Getting Started section](#getting-started) for a detailed video tutorial.
+
+Once you have completed all the steps in the checklist, the Tutorial App is successfully installed!
+
+---
+
+### Next Steps:
+
+Please proceed to watch the [Post-Build Instructions video](#post-build-instructions) to learn how to use the app, including placing models and loading content.
+
+---
 
 ### Data Collection
 
