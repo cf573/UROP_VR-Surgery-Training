@@ -206,7 +206,35 @@ Instructions for developers who want to contribute to the project:
 - Open a pull request
 
 ---
+## Post-Build Instructions
 
+Congratulations on successfully building the application! Now, it's time to learn how to use the app, including placing models and loading content within the app.
+
+### How to Use the App
+
+1. **Launch the App**:
+   - After installing the app on your Quest 3 device, open it from the apps bar.
+
+2. **Placing Models**:
+   - Once inside the app, you can place models in your environment using the following controls:
+     - **Press the Right Hand Index Trigger** to place the selected model in the scene.
+     - **Press Button X** to switch between different prefabs (models) that you want to place.
+     - **Note**: You cannot adjust the position and scale of the model after placing it.
+
+3. **Saving and Loading Content**:
+   - **Press Button B** to save the last prefab you placed in the scene.
+   - **Press Button A** to load everything you saved from the last session.
+   - This allows you to easily continue your work from where you left off.
+
+### Watch the Video Tutorial
+
+For a visual guide on how to use the app, watch the video below:
+
+[![Watch the video](https://img.youtube.com/vi/inkib70SzgQ/0.jpg)](https://youtu.be/inkib70SzgQ)
+
+> This video will walk you through the steps of placing models, saving your configurations, and loading content from previous sessions.
+
+---
 ## License
 
 State the license under which your project is distributed. For example:
