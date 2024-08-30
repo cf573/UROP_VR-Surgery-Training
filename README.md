@@ -105,8 +105,40 @@ Common issues that might arise with the Joystick App and how to resolve them.
 
 ## Getting Started
 
-If there are any general steps that apply to the whole system, such as setting up a virtual environment or installing system-wide dependencies, describe them here.
+Follow these steps to set up your environment and get started with the project:
 
+### Step 1: Register a Unity ID or Sign In
+
+1. **Visit the Unity Website**:
+   - Go to the [Unity website](https://unity.com/).
+   - If you don't have a Unity ID, you'll need to register for one.
+
+2. **Register for a Unity ID**:
+   - Click on the "Get Started" button or navigate directly to the [Unity ID registration page](https://id.unity.com/account/new).
+   - Fill in the required information (email, password, etc.).
+   - Verify your email address if prompted.
+
+3. **Sign In with Your Unity ID**:
+   - If you already have a Unity ID, click on the "Sign In" button.
+   - Enter your email and password to log in to your Unity account.
+
+4. **Download and Install Unity Hub**:
+   - After signing in, you'll be directed to download [Unity Hub](https://unity.com/download).
+   - Unity Hub is the management tool for your Unity projects and licenses.
+   - Follow the instructions to download and install Unity Hub on your machine.
+
+### Step 2: Install the Required Unity Version
+
+1. **Open Unity Hub**:
+   - Launch Unity Hub after installation.
+
+2. **Add a New Unity Version**:
+   - Go to the "Installs" tab in Unity Hub.
+   - Click on the "Add" button to install the version of Unity required for this project.
+   - Choose the recommended Unity version or the version specified in this repository's documentation.
+
+3. **Download and Install**:
+   - Follow the on-screen instructions to download and install the selected Unity version.
 ---
 
 ## Contributing
