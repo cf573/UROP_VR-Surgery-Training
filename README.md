@@ -139,7 +139,9 @@ Follow these steps to set up your environment and get started with the project:
    - Click on the "Add" button.
    - In the list of Unity versions, find and select **2022.3.5f1**.
    - Follow the on-screen instructions to download and install this specific version.
-
+![Unity Version 2022.3.5f1](https://img.youtube.com/vi/a2FsIpASeiI/0.jpg)
+   
+   [Watch the video tutorial here](https://youtu.be/a2FsIpASeiI)
    > **Note**: It's important to use this exact version to ensure compatibility with the project.
 
  ### Step 3: Create a New Project and Configure Settings
