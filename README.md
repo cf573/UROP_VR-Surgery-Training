@@ -161,6 +161,13 @@ Follow these steps to set up your environment and get started with the project:
    - In the "Project Settings" window, scroll down to find the **XR Plug-in Management** section.
    - Click on it, and then click on the "Install XR Plugin Management" button.
    - This will install the necessary libraries to enable XR support in your project.
+   - Tick on Oculus option.
+  
+3. **Add Meta XR All-in-One SDK**:
+   - Open your web browser and go to the [Meta XR All-in-One SDK page](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657) on the Unity Asset Store.
+   - Click on the "Add to My Assets" button to add the SDK to your Unity account.
+   - In the Unity Editor, open the **Asset Store** tab (Window > Asset Store) and log in with your Unity ID if required.
+   - Search for "Meta XR All-in-One SDK" in your assets, and then click "Download" and "Import" to bring the SDK into your project.
 ## Contributing
 
 Instructions for developers who want to contribute to the project:
