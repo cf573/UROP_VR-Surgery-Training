@@ -124,7 +124,7 @@ Follow these steps to set up your environment and get started with the project:
 
 4. **Download and Install Unity Hub**:
    - After signing in, you'll be directed to download [Unity Hub](https://unity.com/download).
-   - ![Unity Hub Download]([https://your-image-url.com/path-to-image.png](https://github.com/cf573/UROP_VR-Surgery-Training/blob/main/unityhub.png))
+   - ![Unity Hub Download](https://github.com/cf573/UROP_VR-Surgery-Training/blob/main/unityhub.png)
    - Unity Hub is the management tool for your Unity projects and licenses.
    - Follow the instructions to download and install Unity Hub on your machine.
 
