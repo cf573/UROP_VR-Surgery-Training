@@ -139,7 +139,28 @@ Follow these steps to set up your environment and get started with the project:
    - Follow the on-screen instructions to download and install this specific version.
 
    > **Note**: It's important to use this exact version to ensure compatibility with the project.
-   
+
+ ### Step 3: Create a New Project and Configure Settings
+
+1. **Create a New Project**:
+   - In Unity Hub, go to the "Projects" tab and click on the "New Project" button.
+   - Select **3D (URP)** under the "Templates" section to create a new project with the Universal Rendering Pipeline (URP).
+   - Name your project and choose a location to save it.
+
+2. **Switch Platform to Android**:
+   - Once the project is open, go to `File > Build Settings`.
+   - In the "Build Settings" window, select **Android** as the target platform.
+   - Click on the "Switch Platform" button to apply the changes.
+
+### Step 4: Install Dependency Libraries
+
+1. **Open Project Settings**:
+   - Go to `Edit > Project Settings` in the Unity Editor.
+
+2. **Install XR Management**:
+   - In the "Project Settings" window, scroll down to find the **XR Plug-in Management** section.
+   - Click on it, and then click on the "Install XR Plugin Management" button.
+   - This will install the necessary libraries to enable XR support in your project.
 ## Contributing
 
 Instructions for developers who want to contribute to the project:
