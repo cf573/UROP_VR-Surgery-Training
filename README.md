@@ -146,7 +146,7 @@ Follow these steps to set up your environment and get started with the project:
 
 > **Note:** From now on, you can watch a [video tutorial](https://youtu.be/a2FsIpASeiI) for creating a new project and installing the dependency libraries. This will help guide you through the process step by step.
 
-> **Note:** [The url mentioned in the video.(Copy it to use!)](https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi.urp)
+> **Note:** [The url mentioned in the video.(Copy it to use!)](https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi.urp) This link is for downloading oculusion rendering texture for urp. As for reference, please check [Depth_API](https://github.com/oculus-samples/Unity-DepthAPI?tab=readme-ov-file#using-the-commetaxrdepthapi-package).
  ### Step 3: Create a New Project and Configure Settings
 
 1. **Create a New Project**:
