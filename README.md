@@ -144,6 +144,7 @@ Follow these steps to set up your environment and get started with the project:
    [![Unity Version 2022.3.5f1](https://img.youtube.com/vi/a2FsIpASeiI/0.jpg)](https://youtu.be/a2FsIpASeiI)
    > **Note**: It's important to use this exact version to ensure compatibility with the project.
 
+> **Note:** From now on, you can watch a [video tutorial](https://youtu.be/a2FsIpASeiI) for creating a new project and installing the dependency libraries. This will help guide you through the process step by step.
  ### Step 3: Create a New Project and Configure Settings
 
 1. **Create a New Project**:
