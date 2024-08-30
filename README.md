@@ -127,20 +127,19 @@ Follow these steps to set up your environment and get started with the project:
    - Unity Hub is the management tool for your Unity projects and licenses.
    - Follow the instructions to download and install Unity Hub on your machine.
 
-### Step 2: Install the Required Unity Version
+### Step 2: Install the Required Unity Version (2022.3.5f1)
 
 1. **Open Unity Hub**:
    - Launch Unity Hub after installation.
 
-2. **Add a New Unity Version**:
+2. **Add Unity Version 2022.3.5f1**:
    - Go to the "Installs" tab in Unity Hub.
-   - Click on the "Add" button to install the version of Unity required for this project.
-   - Choose the recommended Unity version or the version specified in this repository's documentation.
+   - Click on the "Add" button.
+   - In the list of Unity versions, find and select **2022.3.5f1**.
+   - Follow the on-screen instructions to download and install this specific version.
 
-3. **Download and Install**:
-   - Follow the on-screen instructions to download and install the selected Unity version.
----
-
+   > **Note**: It's important to use this exact version to ensure compatibility with the project.
+   
 ## Contributing
 
 Instructions for developers who want to contribute to the project:
