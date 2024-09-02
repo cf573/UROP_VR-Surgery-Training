@@ -101,7 +101,7 @@ This section explains how the data is collected, where it is stored, and how you
 
 1. **Download SideQuest**:
    - To begin, download and install [SideQuest](https://sidequestvr.com/) on your PC.
-   - ![Download SideQuest](https://your-image-url.com/path-to-download-image.png)  <!-- Replace with actual image URL -->
+   - ![Download SideQuest](https://github.com/cf573/UROP_VR-Surgery-Training/blob/main/sidequest.png)  <!-- Replace with actual image URL -->
 
 2. **Connect Your PC to Quest 3**:
    - Use a USB cable to connect your Quest 3 headset to your PC.
