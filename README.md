@@ -149,7 +149,7 @@ Before you begin installing the Joystick App, make sure you have completed the f
 
 ### Next Steps:
 
-After completing all the steps in the checklist, please watch the [![Watch the video](https://img.youtube.com/vi/inkib70SzgQ/0.jpg)](https://youtu.be/inkib70SzgQ) to learn how to set up and use the joystick functionality within the app.
+After completing all the steps in the checklist, please watch the !Watch the video[(https://img.youtube.com/vi/b2c5YWBYhRA.jpg)](https://youtu.be/b2c5YWBYhRA)) to learn how to set up and use the joystick functionality within the app.
 
 ---
 ### Troubleshooting
