@@ -109,7 +109,7 @@ This section explains how the data is collected, where it is stored, and how you
 
 3. **Select 'Manage Files on Headset'**:
    - Open SideQuest and select the "Manage Files on Headset" option.
-   - ![Manage Files](https://your-image-url.com/path-to-manage-files-image.png)  <!-- Replace with actual image URL -->
+   - ![Manage Files](https://github.com/cf573/UROP_VR-Surgery-Training/blob/main/manage%20file.png)  <!-- Replace with actual image URL -->
 
 4. **Navigate to the Data Folder**:
    - In the file management window, navigate to the following path:
