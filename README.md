@@ -132,19 +132,26 @@ This section explains how the data is collected, where it is stored, and how you
 
 A brief description of the Joystick App. What does it control? How is it integrated with the rest of the system?
 
-### Installation
+## Joystick App Installation
 
-Steps to install the Joystick App:
-1. Navigate to the Joystick App directory: `cd joystick-app`
-2. Install dependencies: `npm install` or `pip install -r requirements.txt`
+Before you begin installing the Joystick App, make sure you have completed the following prerequisites:
 
-### Usage
+### Checklist:
 
-Instructions on how to run the Joystick App:
-1. Connect the joystick: Provide any hardware connection instructions.
-2. Start the application: `npm run joystick` or `python joystick.py`
-3. Test the joystick functionality within the system.
+1. [ ] **Unity ID Registered**: Ensure you have registered for a [Unity ID](https://id.unity.com/) or signed in with your existing account.
+2. [ ] **Unity Hub Installed**: Download and install [Unity Hub](https://unity.com/download).
+3. [ ] **Correct Unity Editor Version Installed**: Ensure that Unity Editor version **2022.3.5f1** is installed through Unity Hub.
+4. [ ] **Visual Studio Installed**: Download and install [Visual Studio](https://visualstudio.microsoft.com/) (recommended version for Unity development).
+5. [ ] **Quest 3 Developer Mode Enabled**: Ensure your Quest 3 headset is in developer mode. (Refer to the [Prerequisites section](#prerequisites-set-up-your-quest-3-in-developer-mode) above for instructions).
+6. [ ] **Watch Video in Getting Started**: If you're unfamiliar with any of the steps, refer to the [Getting Started section](#getting-started) for a detailed video tutorial.
 
+---
+
+### Next Steps:
+
+After completing all the steps in the checklist, please watch the [Joystick App video tutorial](https://youtu.be/b2c5YWBYhRA) to learn how to set up and use the joystick functionality within the app.
+
+---
 ### Troubleshooting
 
 Common issues that might arise with the Joystick App and how to resolve them.
